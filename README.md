@@ -16,7 +16,7 @@ I love connecting with people with similar interests so if you think we share so
 <h3 align="center">Other means of connection:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/payal-khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="payal-khatri" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/payal039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="payal039" height="30" width="40" /></a>
+<a href="https://instagram.com/payal_khatrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="payal_khatrii" height="30" width="40" /></a>
 </p>
   <br><br>
 <h3 align="center">Languages and Tools that I know:</h3>

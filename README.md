@@ -3,7 +3,7 @@
 
 
 - I am a graduate student at Northeastern University and a Software Engineer. I have worked as a Frontend Developer in a California based start-up and as a Software Engineer with  L&T Infotech (now known as LTIMindtree) in India
-- I am an avid reader, leaner and adapter
+- I am an avid reader, learner and adapter
 - I like developing and making things better along the way. So feel free to look at my projects and give some feedbacks
 - I am also enthusiastic about building scalable services and creating efficient solutions using modern technologies. Hence I have hands-on with DevOps through CI/CD, GitActions, GCP, Terraform, Packer and Digital Ocean to name a few
 

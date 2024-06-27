@@ -10,7 +10,7 @@
 
 <h3 align="center"> 🎉 Fun Fact </h3>
 I love connecting with people with similar interests so if you think we share something common, feel free to connect with me!
-- 📫 How to reach me <b>khatri.p@northeastern.edu</b>
+- 📫 How to reach me <b>payalkhatri039@gmail.com</b>
 
   <br><br>
 <h3 align="center">Other means of connection:</h3>
